@@ -1,0 +1,6 @@
+题号	题目	答案	分值
+1	b()nana	a	20.00
+2	w()ather	e	20.00
+3	happ()	y	20.00
+4	c()mputer	o	20.00
+5	scho()l	o	20.00
